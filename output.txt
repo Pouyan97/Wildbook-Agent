@@ -1,0 +1,798 @@
+Mexico:  ['East Contoy Island', 'California', 'North Isla Contoy', 'Florida', 'Tequila', 'East Contoy', 'North Contoy Island', 'Holbox Island', 'Roca Partida', 'Cortez', 'San Lucas', 'Texas', 'Contoy', 'Cozumel', 'West Isla Contoy', 'Socorro Island', 'Socorro Islands', 'Yucatan', 'Holbox', 'Guaymas', 'North East Contoy Island']
+
+Honduras:  ['Black Hills', 'North Side', 'Roatan', 'Utila', 'Pumpkin Hill Beach Utila', 'Turtle Harbor Utila', 'North East Utila', 'Pumpkin Hill', 'Southwest Cay', 'Turtle Harbour Utila', 'North West Utila', 'North of Pumpkin', 'South West Cay', 'Black Hills Utila', 'South East Utila', 'North Side of Island', 'North Pumpkin Hill', 'North Black Hills', 'West End']
+
+Egypt:  ['Hurghada', 'Sharm el Sheikh', 'Sharm El Sheikh', 'Habili Nakari Red Sea']
+
+Desecheo Island Puerto Rico:  []
+
+Quintana:  ['East Contoy']
+
+Thailand:  ['Chumphon Pinnacle', 'Chumphon Pinnacles Koh Tao Gulf', 'Tao Gulf', 'Richelieu Rock Surin Islands', 'Richelieu Rock', 'Phuket', 'Koh', 'Phi Phi Islands', 'Koh Tao Gulf', 'Pattaya', 'Richelieu Rock  ']
+
+East Contoy Mexico:  []
+
+Barbados:  []
+
+Ningaloo:  []
+
+Tanzania:  ['Pemba Island']
+
+Djibouti:  ['Goubet Island']
+
+OZ:  []
+
+Montague Island:  []
+
+Cortez:  []
+
+San Jose:  []
+
+Taiwan:  ['Penghu Islands', 'Pingtung', 'Green Island']
+
+Hawaii:  ['Honolulu', 'Kona', 'Moikini']
+
+North Of Qatar:  []
+
+Philippines:  ['Limasawa Island', 'San Ricardo', 'Alona Beach', 'North Islet', 'Limasawa Island Southern Leyte', 'Manila', 'San Roque Liloan', 'Panoan Island', 'Pescador Island', 'Puerto Princesa', 'Panaon', 'Cebu Island', 'San Agustin Romblon']
+
+Arta Beach:  []
+
+San Ricardo Southern Leyte Philippines:  []
+
+Kelantan:  []
+
+Australia:  ['Exmouth', 'Yardie Creek', 'Ningaloo Marine', 'North West Cape', 'Port Stephens', 'North Stradbroke Island', 'Moreton']
+
+Richelieu Rock:  []
+
+Anambas Islands:  []
+
+Belize:  []
+
+Igang:  []
+
+Black Rock:  []
+
+Pumpkin Hill:  []
+
+Ningaloo Marine Park Southern:  []
+
+West Cay:  []
+
+Holbox Mexico:  []
+
+West Australia:  []
+
+Ningaloo Marine:  []
+
+Ninngaloo Marine Park Northern Zone:  []
+
+Northern Zone:  ['Ningaloo Marine']
+
+Florida:  ['Lee County', 'West Palm Beach', 'Islamorada', 'Madeira Beach', 'Pinellas', 'Naples', 'Panama City  ', 'Panama City', 'Largo', 'Boynton Beach', 'Miami Beach', 'Pinellas County', 'Pompano Beach', 'Destin', 'Palm Beach', 'Venice', 'Mexico', 'Panama', 'Treasure Island', 'Hernando Beach', 'Grayton Beach']
+
+San Pedro:  ['San Carlos Mexico']
+
+Tofo Beach:  []
+
+California:  ['Catalina', 'La Paz Baja']
+
+Qatar:  []
+
+Pintuyan Southern Leyte Philippines:  []
+
+St Petersburg:  ['Mexico']
+
+La Paz BCS Mexico:  []
+
+Saudi Arabia:  []
+
+Exmouth:  []
+
+Richeliou:  ['Thailand']
+
+Ecuador:  ['La', 'Santa Marianita']
+
+Tonga:  []
+
+Mozambique:  []
+
+Malaysia:  ['Tioman Island', 'Island', 'South Point Sipadan', 'Johor', 'Penang Island', 'Pulau', 'West Ridge Sipadan Borneo', 'Mabul', 'Tioman Islands', 'Pinang', 'Sabah State', 'Mabul Island']
+
+Exmouth West Australia:  []
+
+India:  ['Bhubaneswar']
+
+West End Roatan Honduras:  []
+
+Cocos Island:  []
+
+Utila:  ['Roatan']
+
+Peru:  []
+
+Indonesia:  ['South Marker', 'North Marker', 'Nabucco', 'Derawan Island', 'Jakarta']
+
+San Ricardo Southern Leyte:  []
+
+Texas:  ['South Padre', 'Freeport', 'South Padre Island']
+
+South Ari:  ['Marmagili']
+
+Pulau Lima:  []
+
+Mafia Island:  []
+
+Queensland:  ['North Stradbroke Island']
+
+Puerto Rico:  []
+
+Vietnam:  []
+
+Sharm el Sheikh:  []
+
+Maamigili:  []
+
+Ningaloo Southern Zone:  []
+
+NM:  ['Mexico']
+
+Milyering:  []
+
+Tantabiddi:  ['Ningaloo Marine Park']
+
+Bahrain:  []
+
+Utilia:  []
+
+Cabo:  []
+
+Drill:  []
+
+Panama:  ['Wahoo Rock', 'Santa Catalina', 'Wahoo Rock Coiba', 'Wahoo Rock Isla', 'San Jose Island']
+
+Legazpi City:  []
+
+Israel:  []
+
+Boora:  []
+
+Puerto Princesa:  []
+
+Cenderawasih:  []
+
+Malapascua Island:  []
+
+South Africa:  ['Isimangaliso']
+
+Wallis Island:  []
+
+Nicaragua:  ['Santa Julia']
+
+Chumphon:  []
+
+Ponta DOura:  []
+
+Yucatan Peninsula Mexico:  []
+
+Santa Maria Island:  []
+
+South West Pinnacle Thailand:  []
+
+Oman:  ['Lima Rock']
+
+Sun Island:  []
+
+LA:  []
+
+Ningaloo Homestead:  []
+
+Venezuela:  ['Aragua']
+
+North Contoy:  []
+
+Ponta:  []
+
+Caicos Islands:  []
+
+Kenya:  []
+
+Micronesia:  ['Kosrae Federated States']
+
+Hookena:  []
+
+Mombasa:  []
+
+North Contoy Mexico:  []
+
+Karratha:  []
+
+West Bank:  []
+
+Balicasag:  []
+
+Ponta DoOura:  []
+
+Mozambigue:  []
+
+Angola:  []
+
+Tachai Island Thailand:  []
+
+Gansbay:  []
+
+Bahia Conception Mulege Mexico:  []
+
+Martinis Rock Fujairah:  []
+
+Java:  ['Indonesias']
+
+Yogyakarta:  []
+
+North Utila Honduras:  []
+
+Brazil:  ['Aguas']
+
+Pioduran:  []
+
+Bahamas:  ['Andros Island', 'San Salvador']
+
+Dubai:  []
+
+United Arab Emirates:  []
+
+Panama City Florida:  []
+
+San Agustin Tablas Romblon:  []
+
+Manta:  []
+
+Grand Bahama Island:  []
+
+Tokyo:  ['Tateyama']
+
+Dirty Rock:  []
+
+Costa Rica:  []
+
+West Caicos:  []
+
+Alona Beach:  []
+
+Sri Lanka:  []
+
+West Papua Indonesia:  ['Cenderawasih']
+
+Kamala:  []
+
+Maryland:  ['Ocean City']
+
+Carrabelle:  []
+
+Maribago Beach:  []
+
+South Ari Atol:  []
+
+Gorgona Columbia:  []
+
+Los Organos Peru:  []
+
+Tachai Pinnacle PhangNga Province:  []
+
+Patong Bay Phuket Thailand:  []
+
+Black Hills:  ['Honduras']
+
+Hawaii Big Island:  []
+
+Homuz:  []
+
+Tantabidi:  []
+
+San Sebastian:  []
+
+Fort Lauderdale:  []
+
+Sattakut:  ['Tao Wreck']
+
+Kalimantan:  []
+
+La Paz Baja:  []
+
+Menjangan Island Bali Indonesia:  []
+
+Palm Beach Florida:  []
+
+Lima Rock:  []
+
+Nuqui Columbia:  []
+
+Victoria:  []
+
+Sumilon:  []
+
+Miles south:  []
+
+Dubai United Arab Emirates:  []
+
+Aruba:  []
+
+Island:  ['Lord', 'South Ari Atoll']
+
+Sharm El Shake:  []
+
+Socorro Islands:  []
+
+Palau:  []
+
+Coast:  []
+
+Gorgona Island Colombia:  []
+
+Sangeang:  []
+
+Yucatan Peninsula Isla HolBox Mexico:  []
+
+Miami:  []
+
+New York:  []
+
+USA:  ['West Palm Beach']
+
+Samran:  []
+
+AlKhafji Saudi Arabia:  []
+
+Scotland:  []
+
+Miles Rock Satun Province:  []
+
+Cuba:  ['Trinidad']
+
+San Diego:  []
+
+South Atoll:  []
+
+Nabire Papua Indonesia:  []
+
+Tsujido Beach Japan:  []
+
+Revillagigedo Mexico:  []
+
+Zayed Sports City:  ['Beach Park']
+
+Puerto Vallarta Mexico:  []
+
+the Island of Utila:  ['North Side']
+
+Chumphon Province:  []
+
+South Male:  []
+
+Similan Islands:  []
+
+Lido Beach:  []
+
+Long Island New York:  []
+
+Caicos:  ['North West Reef Turks']
+
+Providenciales:  []
+
+San Benedicto:  ['Socorro Roca Partida']
+
+Dominica:  []
+
+Hurghada:  []
+
+Anilao:  []
+
+Rhode Island:  []
+
+Cozumel:  []
+
+Serangani:  []
+
+Bay Puerto Princesa City:  []
+
+West End  Roatan Honduras:  []
+
+Cambodia:  []
+
+Las Cabras La:  []
+
+Japan:  ['Okinawa']
+
+Punta Mariato:  ['Panama']
+
+Santa:  []
+
+Santa Catalina:  []
+
+Taganga Columbia:  []
+
+Pavona:  []
+
+Iran:  []
+
+Phuket:  []
+
+Panaon Island Southern Leyte Philippines:  []
+
+La Paz BCS:  []
+
+Marco Island:  []
+
+Sugarloaf:  []
+
+Oman Dimaniyat Islands:  []
+
+San Benedicto Island:  []
+
+San Patricio:  []
+
+Cape Town South Africa:  []
+
+Tadjoura:  []
+
+Chumphon Pinnacle Koh Tao:  []
+
+Menjangan:  []
+
+Nautilus:  ['Socorro Islands Roca Partida']
+
+Numibia:  []
+
+Venice:  ['Nokomis Beach']
+
+Pantai:  []
+
+Arta Beach Djibouti:  []
+
+Placencia Belize:  []
+
+Rio de Janeiro:  []
+
+South Ari Atoll Maledives:  []
+
+Torpedo:  []
+
+San Carlos Mexico:  ['North']
+
+East Timor:  []
+
+Pumpkin Beach:  []
+
+Lanai Island Hawaii:  []
+
+North West:  []
+
+Millering:  []
+
+Sudan:  []
+
+False:  []
+
+Borneo:  ['Derawan']
+
+Bagan:  []
+
+Guam:  []
+
+Greta Beach:  []
+
+Pescador:  []
+
+Los Angeles Mexico:  []
+
+Sarasota:  ['Florida']
+
+Holbox:  []
+
+Ninigaloo Marine Park Northern Zone:  []
+
+Exmouth Australia:  []
+
+Block Eugene:  ['Mexico']
+
+Tofinho Beach:  []
+
+New Airport Utila:  []
+
+Ningaloo Marine Park:  []
+
+Guanica:  []
+
+East  :  []
+
+Tampico Mexico:  []
+
+East Kalimantan:  ['Derawan']
+
+North West Utila:  []
+
+Digurah:  []
+
+West Contoy Mexico:  []
+
+Dubai Marina:  []
+
+Jana Island Kingdom of Saudi Arabia:  []
+
+Manado Indonesia:  []
+
+Ponce:  []
+
+Ari Beach:  []
+
+San Carlos:  []
+
+Dolphin Island:  []
+
+Dubai Marina UAE:  []
+
+China:  ['Guangdong', 'Fujian', 'Shandong Province', 'Hainan', 'Wenzhou Zhejiang', 'Shandong']
+
+San Blas Mexico:  []
+
+the Florida Islands:  ['the Florida Islands']
+
+Kuwait:  []
+
+Christmas Island:  []
+
+North West Shelf:  []
+
+Galveston:  []
+
+North of Qatar:  []
+
+North West Point:  ['Australia']
+
+Lankayan Island Sugud Islands Marine Conservation Area:  []
+
+Puerto Losa Gatos BCS Mexico:  []
+
+Alona Beach Bohol:  []
+
+Beyru:  []
+
+Yemen:  []
+
+Dhiyamagili:  []
+
+Gardens:  []
+
+South Africa Sodwana Bay:  []
+
+Chiba:  []
+
+Tortuga:  []
+
+Richelieu Rock  Thailand:  []
+
+Malpelo island Columbia:  []
+
+East End Utila:  []
+
+La:  []
+
+Abu Rashid:  []
+
+Islamorada:  []
+
+Kona:  []
+
+Sharm El Sheikh:  []
+
+Cancun:  ['Cuba']
+
+UAE:  ['Dubai']
+
+North Male:  []
+
+Pakistan:  []
+
+Panaon Island Southern Leyte:  []
+
+New Orleans:  ['Mexico']
+
+South Park:  []
+
+North Cape New Zealand:  []
+
+Santa Helena Island South Atlantic:  []
+
+Morgan City:  []
+
+Tahiti:  []
+
+Quezon Province Philippines:  []
+
+Gorontalo:  []
+
+South Africa Rocky Bay:  []
+
+Tanzania Mafia Island:  []
+
+Jacksonville:  []
+
+San Lucas:  []
+
+Nantucket:  []
+
+CHina:  ['Behai Guangxi Province']
+
+Las Galera Domican Republic:  []
+
+Choco Columbia:  []
+
+Thousand Islands:  []
+
+Tiran Island:  []
+
+United States:  []
+
+East Borneo Indonesia:  []
+
+Darawan Islands:  []
+
+Nabire:  []
+
+North Ningaloo Australia:  []
+
+Malpelo Island:  []
+
+Malang:  []
+
+Punta:  []
+
+Guatemala:  ['San Jose']
+
+Tazania:  []
+
+North West Solitary Island:  []
+
+Oman Daymaniat Islands:  []
+
+Salina Cruz:  []
+
+Daedalus:  []
+
+Thailand Andaman Sea:  []
+
+Rhoda Beach:  ['Australia']
+
+Tofo Beach Inhambane Mozambique:  []
+
+Conrad:  []
+
+Rock Island:  []
+
+Myanmar:  []
+
+US:  []
+
+Panama City Beach:  []
+
+South Ari  :  []
+
+Tantabiddi Boat:  []
+
+the Kerama Islands:  []
+
+Little:  []
+
+Dwarin:  []
+
+SW Caye:  []
+
+Muang:  []
+
+Maria Island:  []
+
+Lima:  []
+
+West White Beach:  ['Island']
+
+Maui:  ['Molokini Island']
+
+Lanta  Thailand:  []
+
+Nigeria:  ['West Africa Angola']
+
+Hormuz:  []
+
+Loreto:  []
+
+Jordan:  []
+
+Matagorda:  []
+
+Saudi Arabia  :  []
+
+Lanta Andaman Sea Thailand:  []
+
+Ta Chai Island:  []
+
+Laguna Beach:  []
+
+San Fabian Pangasinan Philippines:  []
+
+West Papoea:  []
+
+Los Islotes  :  []
+
+Bradenton:  []
+
+Offshore:  []
+
+MExico:  []
+
+West End Roatan:  []
+
+Naples:  []
+
+Holbox Yucatan Peninsula Mexico:  []
+
+Exmouth Ningaloo Marine Park:  []
+
+Cape Range:  []
+
+Pensacola:  []
+
+Redang Island:  []
+
+Dauphin Island:  []
+
+Cebu Island:  []
+
+Fiji:  []
+
+Musandam Oman:  []
+
+East Java Province Indonesia:  []
+
+Hawaii Island:  []
+
+Vilamendhoo:  []
+
+Roatan:  []
+
+Barbados WI:  []
+
+Zavora Beach Inharrime Inhambane Province Mozambique:  []
+
+Roatan West:  []
+
+Pulau Damar Indonesia:  []
+
+East Contoy Island:  []
+
+Turquoise Beach:  []
+
+San Diego Del:  []
+
+Socorro Island:  []
+
+Bahia Concepcion BCS:  []
+
+Habili Dahara Red Sea:  []
+
+North Hurghada Red Sea:  []
+
+Punta Allen:  []
+
+Puerto Escondido Mexico:  []
+
+Donsol:  []
+
+Bombay:  []
+
+New Guinea:  []
+
+Panama City Beach FL USA:  []
+
+Gaansbai South Africa:  ['Pearly Beach']
+
