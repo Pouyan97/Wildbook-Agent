@@ -1,21 +1,21 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[51]:
+# In[22]:
 
 
-arr = [1,2,3,4,5,6]
+from tqdm import tqdm
+
+# arr = [x for x in range(1000000)]
 
 class Pipe:
     def __init__(self):
         self.pipes = []
     
     # Applies all the functions in pipeline to each element. Returns modified array
-    def __call__(self, data, display=False):
+    def __call__(self, data):
         for func in self.pipes:
-            if display:
-                print("Applying", func)
-            data = list(map(func, data))
+            data = list(map(func, tqdm(data, desc=func.__name__)))
         return data
     
     # Adds function to Pipe.process pipeline
@@ -28,22 +28,20 @@ class Pipe:
             # arg func is <class 'function'>
             self.pipes.append(func)
         
-        
-def addOne(item):
-    return item + 1
+# def addOne(item):
+#     return item + 1
 
-def square(item):
-    return item ** 2
+# def square(item):
+#     return item ** 2
 
-def printItem(item):
-    print(item)
-    return item
+# def printItem(item):
+#     print(item)
+#     return item
 
 # pipe = Pipe()
-# pipe.addPipe([addOne, printItem])
-# pipe.addPipe([square, printItem])
-# print(pipe.pipes)
-# pipe(arr, display=True)
+# pipe.addPipe([addOne])
+# pipe.addPipe([square])
+# res = pipe(arr)
 
 
 # In[ ]:
