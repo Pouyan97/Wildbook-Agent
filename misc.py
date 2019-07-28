@@ -14,7 +14,7 @@ def loadProperties(filepath, sep='=', com='#'):
             l = line.strip()
             if l and not l.startswith(com):
                 key_value = l.split(sep)
-                key = key_value[0].strip()
+                key = key_value[0].replace("\\u0020", " ").strip()
                 value = key_value[1].strip()
                 props[key] = value
     return props
